@@ -1,3 +1,6 @@
+
+# change tenancy_ocid, user_ocid, fingerprint, compartment_ocid
+
 variable "tenancy_ocid" {
 	default = "ocid1.tenancy.oc1..aaaaaaaasvfalhy6kqzeduyqjia5fasjfqtligqrfdo27tfejilfy26nefja"
 }
